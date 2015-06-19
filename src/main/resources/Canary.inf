@@ -1,0 +1,4 @@
+main-class = mccarthy.brian.booksafe.BookSafe
+name = BookSafe
+author = Brian McCarthy
+version = 0.0.1
